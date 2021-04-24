@@ -1,15 +1,15 @@
 import Head from 'next/head'
 
 const Home = () => (
-  <div className="container" style={{backgroundColor: "green"}}>
+  <div className="container" style={{backgroundColor: "red"}}>
     <Head>
-      <title>works </title>
+      <title>BROKEN</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
     <main >
       <h1 className="title">
-        Ahh.. good release is good
+        AHH BROKEN RELEASE IS BROKEN
       </h1>
     </main>
 
